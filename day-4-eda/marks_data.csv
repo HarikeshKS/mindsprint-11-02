@@ -1,0 +1,101 @@
+STUDENT_ID,Name,Math,Science,English,Total,Grade
+1,Hertha Georgescu,65,21,9,113,Grass-roots
+2,Port Ferronet,25,15,71,36,methodical
+3,Tony Beadell,46,12,27,203,installation
+4,Erica Cote,2,75,87,272,tangible
+5,Lilllie Dryburgh,79,3,47,251,fault-tolerant
+6,Birgit Nicolls,28,48,72,93,hardware
+7,Ralph Godleman,59,35,62,33,frame
+8,Winny Bartleman,9,97,87,157,Proactive
+9,Benjy Troyes,80,12,67,220,dedicated
+10,Hyacinthe Catterell,5,44,62,61,Organized
+11,Sascha Osment,21,58,91,252,workforce
+12,Wildon Blacklidge,63,99,43,164,system-worthy
+13,Gayel Woodroof,2,68,36,183,fresh-thinking
+14,Ruggiero Abazi,24,58,41,148,monitoring
+15,Tamma Tregiddo,98,77,40,216,mobile
+16,Upton Marton,41,9,48,236,4th generation
+17,Robers Paulazzi,2,4,11,95,upward-trending
+18,Ab Glasbey,100,100,45,282,system-worthy
+19,Harlin Petel,45,30,81,208,Multi-layered
+20,Creigh Bleue,30,88,70,225,moratorium
+21,Cyrill Longhi,37,55,93,253,task-force
+22,Base Alcott,91,97,93,101,User-friendly
+23,Alyosha Dugmore,6,91,43,2,data-warehouse
+24,Rodger Maxfield,48,81,7,98,Enterprise-wide
+25,Chlo Grishelyov,40,59,5,284,context-sensitive
+26,Caspar Chalfant,88,63,92,169,toolset
+27,Horst Chiddy,57,79,91,114,array
+28,Randy Jellman,61,37,79,1,maximized
+29,Serena Kampshell,58,87,89,127,Fundamental
+30,Fields Paradin,53,28,75,48,coherent
+31,Rockwell Cradick,20,32,48,102,transitional
+32,Rona Hallad,99,54,97,291,Multi-layered
+33,Ginger Kasher,79,5,85,104,attitude-oriented
+34,Renard Burchard,47,59,6,205,executive
+35,Marchelle Absalom,28,68,7,248,upward-trending
+36,Nollie Iddy,37,32,84,121,installation
+37,Delmer Hayler,88,38,63,214,Public-key
+38,Kari Bedburrow,61,62,0,38,local area network
+39,Redd Eaken,61,69,32,94,Customer-focused
+40,Elston Watkin,16,46,27,226,collaboration
+41,Simeon Lanahan,99,78,9,247,pricing structure
+42,Sam Kivelle,17,5,99,82,Object-based
+43,Cathyleen Tulloch,99,21,1,225,optimal
+44,Nils Fyndon,64,88,6,287,well-modulated
+45,Halsy Haseman,23,93,16,128,Devolved
+46,Kalie Michurin,29,83,75,295,projection
+47,Lane Maharg,100,80,38,225,Fully-configurable
+48,Woody Huffy,68,84,67,127,circuit
+49,Jandy Speariett,12,43,12,31,regional
+50,Lindy Sweetmore,5,99,60,220,holistic
+51,Abigail Vigurs,81,58,29,175,Centralized
+52,Edyth Rassmann,54,26,35,93,Automated
+53,Ruthann Di Francesco,69,17,38,300,Synergized
+54,Bonny Aspenlon,33,83,31,96,coherent
+55,Emanuele Pardoe,43,76,24,285,Focused
+56,Aldis Hannabuss,4,43,90,91,systemic
+57,Raynor Idenden,27,93,22,122,Graphic Interface
+58,Reid Morecombe,20,53,29,177,Reactive
+59,Udale Keerl,50,77,91,47,frame
+60,Orsola Vedstra,17,2,79,101,Fundamental
+61,Antonina Ambroziak,42,10,2,187,empowering
+62,Kelsey Sheppard,21,26,80,54,Optional
+63,Goldarina Sibson,26,40,33,56,Virtual
+64,Kira Jozwicki,77,64,1,14,motivating
+65,Rainer Godbert,25,45,50,22,policy
+66,Burt Longmore,39,61,69,266,Switchable
+67,Filip MacGall,99,7,57,113,website
+68,Benetta Duny,79,22,36,208,Enterprise-wide
+69,Jesus Stanner,85,45,99,214,Team-oriented
+70,Nikolas Frear,63,32,26,79,optimal
+71,Johannes Barrie,37,80,76,164,Sharable
+72,Luisa De Micoli,88,81,87,254,Future-proofed
+73,Myca Ciobutaro,24,63,71,146,hub
+74,Paolina Kedward,49,18,97,111,Vision-oriented
+75,Agna Fassmann,74,36,91,261,success
+76,Marshal Brims,12,29,31,115,Face to face
+77,Roi Dirr,34,65,99,258,Open-source
+78,Ilsa Fogel,27,79,96,57,installation
+79,Wilmer Moscrop,45,44,48,188,zero tolerance
+80,Gypsy Hauger,17,44,88,103,Multi-layered
+81,Edd Brangan,1,62,5,14,Reactive
+82,Beverlee Cowcha,26,89,26,177,Down-sized
+83,Niles Bohler,83,40,57,30,intangible
+84,Bernardina Bugdale,77,68,45,165,Public-key
+85,Kaylee Moreby,88,21,95,266,orchestration
+86,Farica Laurenty,94,68,5,119,leading edge
+87,Sheffy Ornells,6,51,11,135,Phased
+88,Glyn Wheelan,84,91,78,259,architecture
+89,Renate Wormald,4,11,33,42,hardware
+90,Killy Treend,91,100,51,240,Organized
+91,Devlin Newsome,15,3,4,12,global
+92,Hillary Bladder,35,28,85,13,secured line
+93,Ivor Gendricke,66,1,62,223,local area network
+94,Dukie Dubbin,85,45,63,274,web-enabled
+95,Christiano Birrane,58,68,40,221,Advanced
+96,Dominga Macieja,49,91,21,254,Extended
+97,Tam Hillam,77,50,99,7,intangible
+98,Latashia Behninck,73,63,62,270,firmware
+99,Ilsa Calan,49,98,29,17,strategy
+100,Henrik Markl,64,61,29,255,website
