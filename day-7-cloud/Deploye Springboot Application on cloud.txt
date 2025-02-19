@@ -1,0 +1,31 @@
+Login to your instance by clicking on connect
+--> its ubuntu instance
+--> sudo apt update
+--> sudo apt install git
+--> git version
+--> git clone https://github.com/sonam-niit/springboot-app.git
+--> move to the cloned folder: cd springboot-app
+--> install open jdk and jre
+	sudo apt install openjdk-17-jre
+	sudo apt install openjdk-17-jdk
+--> install maven to create .jar file
+	sudo apt install maven
+--> Check Java version
+	java -version
+	mvn -version
+--> Create Jar file for your project: mvn clean install
+--> ls (see target folder got created or not)
+--> cd target
+--> ls (check jar file name)
+--> java -jar sample-0.0.1-snapshot.jar
+--> you can see the output of springboot application is running on 8080
+
+copy public ip or dns name:8080/hello also check for /employee
+example: http://ec2-13-232-41-45.ap-south-1.compute.amazonaws.com:8080/employee
+
+
+
+
+
+
+
