@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "address": "UK"
+    },
+    {
+      "id": "2",
+      "name": "Bobby",
+      "email": "bob@gmail.com",
+      "address": "US"
+    },
+    {
+      "id": "3",
+      "name": "Catty",
+      "email": "catty@gmail.com",
+      "address": "US",
+      "website": "www.blabla.com"
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "address": "Philipines",
+      "id": "4"
+    },
+    {
+      "id": "1740053500933",
+      "name": "Johhy",
+      "email": "johhny@gmail.com",
+      "address": "India"
+    }
+  ]
+}
